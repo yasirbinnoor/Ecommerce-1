@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "title": "iPhone 15 Pro Max",
+        "description": "Apple's best phone with top features.",
+        "image": "/ProductImages/iphone15.png",
+        "price": 374999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 2,
+        "title": "iPhone 13 Pro Max",
+        "description": "Affordable and powerful iPhone with premium design.",
+        "image": "/ProductImages/iphone13.png",
+        "price": 284999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 3,
+        "title": "iPhone 16 Pro Max",
+        "description": "Future-ready Apple phone with ultra performance.",
+        "image": "/ProductImages/iphone16.png",
+        "price": 399999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 4,
+        "title": "iPhone 17 Pro Max",
+        "description": "Latest iPhone with cutting-edge technology.",
+        "image": "/ProductImages/iphone17.png",
+        "price": 429999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 5,
+        "title": "Samsung Galaxy S25",
+        "description": "Newest Galaxy with flagship performance.",
+        "image": "/ProductImages/samsung Galaxy S25.png",
+        "price": 374999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 6,
+        "title": "Samsung Galaxy S24",
+        "description": "Samsung's latest high-end device with great camera.",
+        "image": "/ProductImages/samsung Galexy S24.png",
+        "price": 344999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 7,
+        "title": "Samsung Galaxy A56",
+        "description": "Budget Samsung phone with excellent features.",
+        "image": "/ProductImages/samsung Galexy A56.png",
+        "price": 172999,
+        "category": "Mobiles"
+    },
+    {
+        "id": 8,
+        "title": "Laptop Samsung i5",
+        "description": "Fast and reliable laptop for daily work.",
+        "image": "/ProductImages/samsung i5.png",
+        "price": 229999,
+        "category": "Laptop"
+    },
+    {
+        "id": 9,
+        "title": "Laptop Samsung i9",
+        "description": "Powerful laptop for gaming and productivity.",
+        "image": "/ProductImages/samsung i9.png",
+        "price": 344999,
+        "category": "Laptop"
+    },
+    {
+        "id": 10,
+        "title": "Laptop Dell i5",
+        "description": "Trusted performance laptop from Dell.",
+        "image": "/ProductImages/dell i5.png",
+        "price": 214999,
+        "category": "Laptop"
+    },
+    {
+        "id": 11,
+        "title": "Laptop Samsung i9 Pro",
+        "description": "Premium Samsung laptop with top-tier specs.",
+        "image": "/ProductImages/dell i9.png",
+        "price": 399999,
+        "category": "Laptop"
+    },
+    {
+        "id": 12,
+        "title": "Tablet Samsung A6 Pro",
+        "description": "Lightweight tablet for everyday use, perfect for browsing and video calls.",
+        "image": "/ProductImages/samsung.tablet.A6.png",
+        "price": 99999,
+        "category": "Tablet"
+    },
+    {
+        "id": 13,
+        "title": "Tablet Samsung A9 Pro",
+        "description": "Powerful mid-range tablet with smooth performance and great battery life.",
+        "image": "/ProductImages/samsung.tablet.A9.png",
+        "price": 139999,
+        "category": "Tablet"
+    },
+    {
+        "id": 14,
+        "title": "Tablet Samsung S9 Pro",
+        "description": "High-end Samsung tablet with S Pen support and AMOLED display for professionals.",
+        "image": "/ProductImages/samsung.tablet.s9.png",
+        "price": 194999,
+        "category": "Tablet"
+    },
+    {
+        "id": 15,
+        "title": "Samsung Galaxy A15",
+        "description": "Samsung Galaxy A15 – Sleek design with a stunning AMOLED display, powerful performance, and long-lasting battery. Ideal for multimedia and everyday tasks.",
+        "image": "/ProductImages/samsungA15.png",
+        "price": 194999,
+        "category": "Mobiles"
+    }
+]
